@@ -24,7 +24,7 @@ const NavBar = ({ itemsCount }) => {
             className={classes.title}
             color="inherit"
           >
-            Commerce.js
+            EasyBuy
           </Typography>
           <div className={classes.grow} />
 
